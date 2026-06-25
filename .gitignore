@@ -33,3 +33,8 @@ Thumbs.db
 
 # Logs
 *.log
+
+input/
+train.py
+webcam_detect.py
+yolo11n.pt
