@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+
+# Streamlit Cache
+.streamlit/
+
+# YOLO Outputs
+runs/
+
+# Generated Outputs
+output/
+*.csv
+*.mp4
+*.avi
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
