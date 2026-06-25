@@ -59,6 +59,16 @@ PPE-Compliance-System/
 5. Worker-wise reports are generated.
 6. Results are displayed through the Streamlit dashboard.
 
+## Results
+
+The system successfully:
+
+* Detects workers and PPE equipment using YOLO.
+* Assigns PPE items to individual workers.
+* Performs worker-wise compliance analysis.
+* Generates downloadable CSV safety reports.
+* Supports image, video, and real-time monitoring workflows.
+
 ## How to Run
 
 ### Install Dependencies
@@ -91,6 +101,23 @@ streamlit run app.py
 * Worker-wise compliance table
 * CSV compliance report
 
+## Screenshots
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Image Detection
+![Image Detection](screenshots/image_detection.png)
+
+### Compliance Report
+![Compliance Report](screenshots/compliance_report.png)
+
+### Video Detection
+![Video Detection](screenshots/video_detection.png)
+
+### Live Camera Detection
+![Live Camera Detection](screenshots/live_camera.png)
+
 ## Future Improvements
 
 * Real-time webcam monitoring
@@ -101,5 +128,11 @@ streamlit run app.py
 
 ## Author
 
-Dona Rose
-AI/ML Engineer | Data Science & Generative AI Enthusiast
+**Dona Rose**
+
+Aspiring AI/ML Engineer with experience in Computer Vision, Machine Learning, Generative AI, and Data Science.
+
+GitHub: https://github.com/dopymol
+
+
+
